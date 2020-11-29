@@ -1,0 +1,1 @@
+ME: Apparently this is the first statue carved entirely out of Moon rocks. 

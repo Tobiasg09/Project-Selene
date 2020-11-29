@@ -1,0 +1,1 @@
+ME: I think this is a game they used to play back on Earth. I heard it was supposed to be fun until some AI showed up and started winning everything.

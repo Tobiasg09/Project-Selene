@@ -1,0 +1,1 @@
+﻿{"inkVersion":19,"root":[["^ANDY: Hey ","ev",{"VAR?":"player_name"},"out","/ev","^! Come here for a second. It's about the quantum core.","\n","^ME: Sure.","\n",["done",{"#f":5,"#n":"g-0"}],null],"done",{"global decl":["ev","str","^Meredith","/str",{"VAR=":"player_name"},"/ev","end",null],"#f":1}],"listDefs":{}}

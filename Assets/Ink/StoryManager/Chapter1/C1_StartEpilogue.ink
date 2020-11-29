@@ -1,0 +1,1 @@
+ON SPEAKER: General annoucement: Code Red. All section members please go to the bar for immediate briefing. This is not an drill. 

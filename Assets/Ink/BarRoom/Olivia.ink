@@ -1,0 +1,1 @@
+OLIVIA: I've watched literally all the series available on Luna-watch. Now I have to be social and interact with people.

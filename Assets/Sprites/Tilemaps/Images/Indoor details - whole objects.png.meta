@@ -1,0 +1,1657 @@
+fileFormatVersion: 2
+guid: 99e5563f3a57e4f44a516ed6c7c188e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5054833814237586098
+    second: Indoor details - whole objects_0
+  - first:
+      213: -6812842828208999442
+    second: Indoor details - whole objects_1
+  - first:
+      213: 2349400623339114434
+    second: Indoor details - whole objects_0
+  - first:
+      213: 7711459620773232143
+    second: Indoor details - whole objects_1
+  - first:
+      213: -6219856964691504507
+    second: Indoor details - whole objects_2
+  - first:
+      213: -983319290567663178
+    second: Indoor details - whole objects_3
+  - first:
+      213: 6626256176023488923
+    second: Indoor details - whole objects_4
+  - first:
+      213: 824335582891525321
+    second: Indoor details - whole objects_5
+  - first:
+      213: 7254132413936472092
+    second: Indoor details - whole objects_6
+  - first:
+      213: -89180973532980264
+    second: Indoor details - whole objects_7
+  - first:
+      213: -3239035048191870662
+    second: Indoor details - whole objects_8
+  - first:
+      213: 2811875751849253407
+    second: Indoor details - whole objects_9
+  - first:
+      213: -7727320891529035171
+    second: Indoor details - whole objects_10
+  - first:
+      213: -2817642776240613982
+    second: Indoor details - whole objects_11
+  - first:
+      213: -825366962811953786
+    second: Indoor details - whole objects_12
+  - first:
+      213: 1208109085404657681
+    second: Indoor details - whole objects_13
+  - first:
+      213: -5398309462332627209
+    second: Indoor details - whole objects_14
+  - first:
+      213: 3014761155399888590
+    second: Indoor details - whole objects_15
+  - first:
+      213: -2612333180204256587
+    second: Indoor details - whole objects_16
+  - first:
+      213: -7155261550663541356
+    second: Indoor details - whole objects_17
+  - first:
+      213: 6859644547573427637
+    second: Indoor details - whole objects_18
+  - first:
+      213: 712285019272264270
+    second: Indoor details - whole objects_19
+  - first:
+      213: -3257066798150568808
+    second: Indoor details - whole objects_20
+  - first:
+      213: -3180073052064687972
+    second: Indoor details - whole objects_21
+  - first:
+      213: 5584718884649964727
+    second: Indoor details - whole objects_22
+  - first:
+      213: 4276587784902637701
+    second: Indoor details - whole objects_23
+  - first:
+      213: -1631613413427690254
+    second: Indoor details - whole objects_24
+  - first:
+      213: -460480974141723448
+    second: Indoor details - whole objects_25
+  - first:
+      213: 4785221360686086111
+    second: Indoor details - whole objects_26
+  - first:
+      213: 6565135048797844865
+    second: Indoor details - whole objects_27
+  - first:
+      213: -3060574177956872809
+    second: Indoor details - whole objects_28
+  - first:
+      213: 4105516834972434847
+    second: Indoor details - whole objects_29
+  - first:
+      213: -3208848937513786421
+    second: Indoor details - whole objects_30
+  - first:
+      213: -7887444608165632241
+    second: Indoor details - whole objects_31
+  - first:
+      213: -4106319873775294969
+    second: Indoor details - whole objects_32
+  - first:
+      213: 8715603764668114190
+    second: Indoor details - whole objects_33
+  - first:
+      213: 1136433775216792214
+    second: Indoor details - whole objects_34
+  - first:
+      213: 7324907105963047463
+    second: Indoor details - whole objects_35
+  - first:
+      213: 8505574193351479760
+    second: Indoor details - whole objects_36
+  - first:
+      213: -4519993553419939790
+    second: Indoor details - whole objects_37
+  - first:
+      213: 5387366052173008825
+    second: Indoor details - whole objects_38
+  - first:
+      213: 8147842512462956279
+    second: Indoor details - whole objects_39
+  - first:
+      213: 4121071967520520330
+    second: Indoor details - whole objects_40
+  - first:
+      213: -8819642290964021436
+    second: Indoor details - whole objects_41
+  - first:
+      213: -3563051996378739281
+    second: Indoor details - whole objects_42
+  - first:
+      213: 2645174807704497761
+    second: Indoor details - whole objects_43
+  - first:
+      213: 8228245031002179044
+    second: Indoor details - whole objects_44
+  - first:
+      213: 5155504794913281592
+    second: Indoor details - whole objects_45
+  - first:
+      213: 9051808902106890451
+    second: Indoor details - whole objects_46
+  - first:
+      213: -283681533366388690
+    second: Indoor details - whole objects_47
+  - first:
+      213: 8400543739905833879
+    second: Indoor details - whole objects_48
+  - first:
+      213: -4806849737037680941
+    second: Indoor details - whole objects_49
+  - first:
+      213: -1007078808921423827
+    second: Indoor details - whole objects_50
+  - first:
+      213: -765417315456928964
+    second: Indoor details - whole objects_51
+  - first:
+      213: -4927461973965428863
+    second: Indoor details - whole objects_52
+  - first:
+      213: 3976424643124553043
+    second: Indoor details - whole objects_53
+  - first:
+      213: 7588643273411522741
+    second: Indoor details - whole objects_54
+  - first:
+      213: -660348910663668242
+    second: Indoor details - whole objects_55
+  - first:
+      213: 8935184831386080285
+    second: Indoor details - whole objects_56
+  - first:
+      213: -3987776050977777796
+    second: Indoor details - whole objects_57
+  - first:
+      213: 7961409720814944398
+    second: Indoor details - whole objects_58
+  - first:
+      213: -6486505605017471778
+    second: Indoor details - whole objects_59
+  - first:
+      213: 7810252185453836493
+    second: Indoor details - whole objects_60
+  - first:
+      213: 2022962299763888525
+    second: Indoor details - whole objects_61
+  - first:
+      213: -2080125123145176602
+    second: Indoor details - whole objects_62
+  - first:
+      213: 7009371593878385018
+    second: Indoor details - whole objects_63
+  - first:
+      213: 4039711770338922842
+    second: Indoor details - whole objects_64
+  - first:
+      213: -1828788630689150060
+    second: Indoor details - whole objects_65
+  - first:
+      213: -7597719361961493332
+    second: Indoor details - whole objects_66
+  - first:
+      213: -8809297599502848522
+    second: Indoor details - whole objects_67
+  - first:
+      213: -2275250666291938188
+    second: Indoor details - whole objects_68
+  - first:
+      213: -231511206710739518
+    second: Indoor details - whole objects_69
+  - first:
+      213: 7527045990337260423
+    second: Indoor details - whole objects_70
+  - first:
+      213: -1149146210969641196
+    second: Indoor details - whole objects_71
+  - first:
+      213: 7010447118691073890
+    second: Indoor details - whole objects_72
+  - first:
+      213: 2582250316842309509
+    second: Indoor details - whole objects_73
+  - first:
+      213: 3474080357106129384
+    second: Indoor details - whole objects_74
+  - first:
+      213: -7097184662776893934
+    second: Indoor details - whole objects_75
+  - first:
+      213: -4912992095296393667
+    second: Indoor details - whole objects_76
+  - first:
+      213: -8545449728079528548
+    second: Indoor details - whole objects_77
+  - first:
+      213: -667264866739902563
+    second: Indoor details - whole objects_78
+  - first:
+      213: -7233920372868167779
+    second: Indoor details - whole objects_79
+  - first:
+      213: 3177432210468331519
+    second: Indoor details - whole objects_80
+  - first:
+      213: 1836362545754432283
+    second: Indoor details - whole objects_81
+  - first:
+      213: -6465218341673797141
+    second: Indoor details - whole objects_82
+  - first:
+      213: -3281152205964101687
+    second: Indoor details - whole objects_83
+  - first:
+      213: 8660740590262965200
+    second: Indoor details - whole objects_84
+  - first:
+      213: 6263354649408025633
+    second: Indoor details - whole objects_85
+  - first:
+      213: -4513815729570804376
+    second: Indoor details - whole objects_86
+  - first:
+      213: 9107125561277803891
+    second: Indoor details - whole objects_87
+  - first:
+      213: -5920784105785082969
+    second: Indoor details - whole objects_88
+  - first:
+      213: -1810029464194470176
+    second: Indoor details - whole objects_89
+  - first:
+      213: -6179621037939786483
+    second: Indoor details - whole objects_90
+  - first:
+      213: 1184578372873761725
+    second: Indoor details - whole objects_91
+  - first:
+      213: -2007431974557063352
+    second: Indoor details - whole objects_92
+  - first:
+      213: -7732694597768964705
+    second: Indoor details - whole objects_93
+  - first:
+      213: 5429213982602988290
+    second: Indoor details - whole objects_94
+  - first:
+      213: 6082642091861884372
+    second: Indoor details - whole objects_95
+  - first:
+      213: -6341649540787614860
+    second: Indoor details - whole objects_96
+  - first:
+      213: 938332744027958979
+    second: Indoor details - whole objects_97
+  - first:
+      213: -8212597215997458428
+    second: Indoor details - whole objects_98
+  - first:
+      213: -2507903253669476506
+    second: Indoor details - whole objects_99
+  - first:
+      213: 7260750502086436511
+    second: Indoor details - whole objects_100
+  - first:
+      213: 7395105640839359749
+    second: Indoor details - whole objects_101
+  - first:
+      213: 5116032907510889445
+    second: Indoor details - whole objects_102
+  - first:
+      213: -2735770329341090453
+    second: Indoor details - whole objects_103
+  - first:
+      213: 206122811805477292
+    second: Indoor details - whole objects_104
+  - first:
+      213: -5790845699644855702
+    second: Indoor details - whole objects_105
+  - first:
+      213: 6321124494902563079
+    second: Indoor details - whole objects_106
+  - first:
+      213: -5277252469874817009
+    second: Indoor details - whole objects_107
+  - first:
+      213: 6827690942892522429
+    second: Indoor details - whole objects_108
+  - first:
+      213: 3430515456133470323
+    second: Indoor details - whole objects_109
+  - first:
+      213: 9221453046653208248
+    second: Indoor details - whole objects_110
+  - first:
+      213: -2439382509344091663
+    second: Indoor details - whole objects_111
+  - first:
+      213: 8477252409342841279
+    second: Indoor details - whole objects_112
+  - first:
+      213: -1938709829891917711
+    second: Indoor details - whole objects_113
+  - first:
+      213: 5215390597520230278
+    second: Indoor details - whole objects_114
+  - first:
+      213: 5786893945528374133
+    second: Indoor details - whole objects_115
+  - first:
+      213: -4119838192039352874
+    second: Indoor details - whole objects_116
+  - first:
+      213: 3568747311714469069
+    second: Indoor details - whole objects_117
+  - first:
+      213: -2619140088622757172
+    second: Indoor details - whole objects_118
+  - first:
+      213: 6888064486635261954
+    second: Indoor details - whole objects_119
+  - first:
+      213: -6544554493171942914
+    second: Indoor details - whole objects_120
+  - first:
+      213: 1116980738331052960
+    second: Indoor details - whole objects_121
+  - first:
+      213: 2250082374810983314
+    second: Indoor details - whole objects_122
+  - first:
+      213: 6071458441979057990
+    second: Indoor details - whole objects_123
+  - first:
+      213: 2881304683613187675
+    second: Indoor details - whole objects_124
+  - first:
+      213: -126075696949195741
+    second: Indoor details - whole objects_125
+  - first:
+      213: 1379537106894686272
+    second: Indoor details - whole objects_126
+  - first:
+      213: -2462588269144341842
+    second: Indoor details - whole objects_127
+  - first:
+      213: 5014182842251075755
+    second: Indoor details - whole objects_128
+  - first:
+      213: 5346024098509412253
+    second: Indoor details - whole objects_129
+  - first:
+      213: 9111547896183519378
+    second: Indoor details - whole objects_130
+  - first:
+      213: -2783515654392417154
+    second: Indoor details - whole objects_131
+  - first:
+      213: 2778283669957067859
+    second: Indoor details - whole objects_132
+  - first:
+      213: -1493049339325745220
+    second: Indoor details - whole objects_133
+  - first:
+      213: 4996902666767137109
+    second: Indoor details - whole objects_134
+  - first:
+      213: 8678838404742348345
+    second: Indoor details - whole objects_135
+  - first:
+      213: -3529779360409233064
+    second: Indoor details - whole objects_136
+  - first:
+      213: -1817453150940819122
+    second: Indoor details - whole objects_137
+  - first:
+      213: 3759441139083894453
+    second: Indoor details - whole objects_138
+  - first:
+      213: 3640400304570372029
+    second: Indoor details - whole objects_139
+  - first:
+      213: 1293993524978805489
+    second: Indoor details - whole objects_140
+  - first:
+      213: -3240329985444881707
+    second: Indoor details - whole objects_141
+  - first:
+      213: -4818975236033837212
+    second: Indoor details - whole objects_142
+  - first:
+      213: 6943719855806320614
+    second: Indoor details - whole objects_143
+  - first:
+      213: 5411847344474535161
+    second: Indoor details - whole objects_144
+  - first:
+      213: 1048536328591361210
+    second: Indoor details - whole objects_145
+  - first:
+      213: 5004146850029600045
+    second: Indoor details - whole objects_146
+  - first:
+      213: 5212592876357456625
+    second: Indoor details - whole objects_147
+  - first:
+      213: -5080661931048377749
+    second: Indoor details - whole objects_148
+  - first:
+      213: 638349737626700991
+    second: Indoor details - whole objects_149
+  - first:
+      213: 2276742196869679022
+    second: Indoor details - whole objects_150
+  - first:
+      213: -3689671523371029159
+    second: Indoor details - whole objects_151
+  - first:
+      213: 8268570450714382228
+    second: Indoor details - whole objects_152
+  - first:
+      213: 5875500809985949364
+    second: Indoor details - whole objects_153
+  - first:
+      213: -9109358135697498183
+    second: Indoor details - whole objects_154
+  - first:
+      213: 5284896905326591694
+    second: Indoor details - whole objects_155
+  - first:
+      213: 4794010162393327868
+    second: Indoor details - whole objects_156
+  - first:
+      213: -7105363323567558366
+    second: Indoor details - whole objects_157
+  - first:
+      213: 3727387824226134604
+    second: Indoor details - whole objects_158
+  - first:
+      213: -6674677117201302352
+    second: Indoor details - whole objects_159
+  - first:
+      213: 6902048315982070283
+    second: Indoor details - whole objects_160
+  - first:
+      213: 1216468740818258707
+    second: Indoor details - whole objects_161
+  - first:
+      213: -3425200986856651331
+    second: Indoor details - whole objects_162
+  - first:
+      213: -4639662416722401918
+    second: Indoor details - whole objects_163
+  - first:
+      213: 5549567870642241122
+    second: Indoor details - whole objects_164
+  - first:
+      213: -7267825484912257119
+    second: Indoor details - whole objects_165
+  - first:
+      213: -2879087547033035278
+    second: Indoor details - whole objects_166
+  - first:
+      213: 1116164114673736973
+    second: Indoor details - whole objects_167
+  - first:
+      213: 6496800366681922708
+    second: Indoor details - whole objects_168
+  - first:
+      213: -277048331443094948
+    second: Indoor details - whole objects_169
+  - first:
+      213: -4872505737525877695
+    second: Indoor details - whole objects_170
+  - first:
+      213: 7374990190486846293
+    second: Indoor details - whole objects_171
+  - first:
+      213: 2117705491910956101
+    second: Indoor details - whole objects_172
+  - first:
+      213: 7322078041779853116
+    second: Indoor details - whole objects_173
+  - first:
+      213: -5657934063590234534
+    second: Indoor details - whole objects_174
+  - first:
+      213: 8883508136621984229
+    second: Indoor details - whole objects_175
+  - first:
+      213: 1583645707305940536
+    second: Indoor details - whole objects_176
+  - first:
+      213: 1451930800940481103
+    second: Indoor details - whole objects_177
+  - first:
+      213: 6240858923859250656
+    second: Indoor details - whole objects_178
+  - first:
+      213: 544479812228389986
+    second: Indoor details - whole objects_179
+  - first:
+      213: 8529036872178593415
+    second: Indoor details - whole objects_180
+  - first:
+      213: -3901661755375367785
+    second: Indoor details - whole objects_181
+  - first:
+      213: 3878628184171631131
+    second: Indoor details - whole objects_182
+  - first:
+      213: -2496472742683732990
+    second: Indoor details - whole objects_183
+  - first:
+      213: -1403452171554406075
+    second: Indoor details - whole objects_184
+  - first:
+      213: 411334581859977543
+    second: Indoor details - whole objects_185
+  - first:
+      213: -207754534862443284
+    second: Indoor details - whole objects_186
+  - first:
+      213: 511028087168620981
+    second: Indoor details - whole objects_187
+  - first:
+      213: -5016401021753394730
+    second: Indoor details - whole objects_188
+  - first:
+      213: 6806263218576211927
+    second: Indoor details - whole objects_189
+  - first:
+      213: -6210353044902955227
+    second: Indoor details - whole objects_190
+  - first:
+      213: 3819773007180113544
+    second: Indoor details - whole objects_191
+  - first:
+      213: -7254202305424288859
+    second: Indoor details - whole objects_192
+  - first:
+      213: 4385716958543367229
+    second: Indoor details - whole objects_193
+  - first:
+      213: 7725752539391506175
+    second: Indoor details - whole objects_194
+  - first:
+      213: -1275187603864600826
+    second: Indoor details - whole objects_195
+  - first:
+      213: 3882811586515419925
+    second: Indoor details - whole objects_196
+  - first:
+      213: -3614434906635421582
+    second: Indoor details - whole objects_197
+  - first:
+      213: 1319495037860104875
+    second: Indoor details - whole objects_198
+  - first:
+      213: -9130557751246294084
+    second: Indoor details - whole objects_199
+  - first:
+      213: 87603247585804723
+    second: Indoor details - whole objects_200
+  - first:
+      213: 1114589961111133146
+    second: Indoor details - whole objects_201
+  - first:
+      213: -6237171692105893290
+    second: Indoor details - whole objects_202
+  - first:
+      213: -7418965882303460109
+    second: Indoor details - whole objects_203
+  - first:
+      213: -2205451726698395431
+    second: Indoor details - whole objects_204
+  - first:
+      213: -1762914849268976751
+    second: Indoor details - whole objects_205
+  - first:
+      213: 7784858162115429532
+    second: Indoor details - whole objects_206
+  - first:
+      213: -7539374683780548485
+    second: Indoor details - whole objects_207
+  - first:
+      213: 4086180419439178166
+    second: Indoor details - whole objects_208
+  - first:
+      213: 437673338120135902
+    second: Indoor details - whole objects_209
+  - first:
+      213: 6696755510648186523
+    second: Indoor details - whole objects_210
+  - first:
+      213: 5666591075019284714
+    second: Indoor details - whole objects_211
+  - first:
+      213: -1644159414430262690
+    second: Indoor details - whole objects_212
+  - first:
+      213: -3689933497729836134
+    second: Indoor details - whole objects_213
+  - first:
+      213: -7793837375916652531
+    second: Indoor details - whole objects_214
+  - first:
+      213: -147749793644339939
+    second: Indoor details - whole objects_215
+  - first:
+      213: 2666190037505828230
+    second: Indoor details - whole objects_216
+  - first:
+      213: 4604221286014683501
+    second: Indoor details - whole objects_217
+  - first:
+      213: -1395560267059837404
+    second: Indoor details - whole objects_218
+  - first:
+      213: -4838555078772631636
+    second: Indoor details - whole objects_219
+  - first:
+      213: -1030449753632252687
+    second: Indoor details - whole objects_220
+  - first:
+      213: 1313370270648630016
+    second: Indoor details - whole objects_221
+  - first:
+      213: -1262246278426326750
+    second: Indoor details - whole objects_222
+  - first:
+      213: -25756385480312033
+    second: Indoor details - whole objects_223
+  - first:
+      213: 8267359676783258700
+    second: Indoor details - whole objects_224
+  - first:
+      213: 6547769405892257816
+    second: Indoor details - whole objects_225
+  - first:
+      213: -3506540521725394431
+    second: Indoor details - whole objects_226
+  - first:
+      213: 1867630782316611447
+    second: Indoor details - whole objects_227
+  - first:
+      213: 5435553190128564247
+    second: Indoor details - whole objects_228
+  - first:
+      213: -4910666548062742519
+    second: Indoor details - whole objects_229
+  - first:
+      213: -4264933730499612020
+    second: Indoor details - whole objects_230
+  - first:
+      213: -6408872785825644849
+    second: Indoor details - whole objects_231
+  - first:
+      213: -2096281736411298484
+    second: Indoor details - whole objects_232
+  - first:
+      213: -969179147310052909
+    second: Indoor details - whole objects_233
+  - first:
+      213: 7613501896681946423
+    second: Indoor details - whole objects_234
+  - first:
+      213: 7488129335068829798
+    second: Indoor details - whole objects_235
+  - first:
+      213: 6407400506750294572
+    second: Indoor details - whole objects_236
+  - first:
+      213: -669297499785809523
+    second: Indoor details - whole objects_237
+  - first:
+      213: 4117053825933103646
+    second: Indoor details - whole objects_238
+  - first:
+      213: 4803725971131960264
+    second: Indoor details - whole objects_239
+  - first:
+      213: -1085334946133501211
+    second: Indoor details - whole objects_240
+  - first:
+      213: 2765780563335085181
+    second: Indoor details - whole objects_241
+  - first:
+      213: -7368283641649664881
+    second: Indoor details - whole objects_242
+  - first:
+      213: -773596001072756869
+    second: Indoor details - whole objects_243
+  - first:
+      213: 6932571151148941168
+    second: Indoor details - whole objects_244
+  - first:
+      213: 6758204368100241510
+    second: Indoor details - whole objects_245
+  - first:
+      213: -7036227647120093938
+    second: Indoor details - whole objects_246
+  - first:
+      213: 1797073462042768050
+    second: Indoor details - whole objects_247
+  - first:
+      213: -1373128897990156364
+    second: Indoor details - whole objects_248
+  - first:
+      213: 6434328627564473605
+    second: Indoor details - whole objects_249
+  - first:
+      213: -8453758486031067285
+    second: Indoor details - whole objects_250
+  - first:
+      213: -3580381236374153210
+    second: Indoor details - whole objects_251
+  - first:
+      213: -636618605054432929
+    second: Indoor details - whole objects_252
+  - first:
+      213: 1400809478560495862
+    second: Indoor details - whole objects_253
+  - first:
+      213: -1914836696588951104
+    second: Indoor details - whole objects_254
+  - first:
+      213: -7537746141019089031
+    second: Indoor details - whole objects_255
+  - first:
+      213: 4549806957810182314
+    second: Indoor details - whole objects_256
+  - first:
+      213: -6652006294543045175
+    second: Indoor details - whole objects_257
+  - first:
+      213: -1926744853448133442
+    second: Indoor details - whole objects_258
+  - first:
+      213: 2716696219010369139
+    second: Indoor details - whole objects_259
+  - first:
+      213: 8452154017847573953
+    second: Indoor details - whole objects_260
+  - first:
+      213: -5318792847959601136
+    second: Indoor details - whole objects_261
+  - first:
+      213: -8634857063796307829
+    second: Indoor details - whole objects_262
+  - first:
+      213: 447221954551715702
+    second: Indoor details - whole objects_263
+  - first:
+      213: 4183877540036007724
+    second: Indoor details - whole objects_264
+  - first:
+      213: -7456384269949533120
+    second: Indoor details - whole objects_265
+  - first:
+      213: 3768680029627138899
+    second: Indoor details - whole objects_266
+  - first:
+      213: -1127693920901116774
+    second: Indoor details - whole objects_267
+  - first:
+      213: 3272796601618545526
+    second: Indoor details - whole objects_268
+  - first:
+      213: 4190321684897498391
+    second: Indoor details - whole objects_269
+  - first:
+      213: -2731077712318132750
+    second: Indoor details - whole objects_270
+  - first:
+      213: 4614060473107091505
+    second: Indoor details - whole objects_271
+  - first:
+      213: -6250431898908890304
+    second: Indoor details - whole objects_272
+  - first:
+      213: 6279072037805921232
+    second: Indoor details - whole objects_273
+  - first:
+      213: -6104045949243742826
+    second: Indoor details - whole objects_274
+  - first:
+      213: -3336445954563796912
+    second: Indoor details - whole objects_275
+  - first:
+      213: 2300119539494828654
+    second: Indoor details - whole objects_276
+  - first:
+      213: -352604501555454956
+    second: Indoor details - whole objects_277
+  - first:
+      213: 7400445520893615201
+    second: Indoor details - whole objects_278
+  - first:
+      213: 666281487045774696
+    second: Indoor details - whole objects_279
+  - first:
+      213: -1124091007507128882
+    second: Indoor details - whole objects_280
+  - first:
+      213: -3956734047575301190
+    second: Indoor details - whole objects_281
+  - first:
+      213: -5000248340617865476
+    second: Indoor details - whole objects_282
+  - first:
+      213: -6949707435302029590
+    second: Indoor details - whole objects_283
+  - first:
+      213: -2251633220777150620
+    second: Indoor details - whole objects_284
+  - first:
+      213: 2437661588991818827
+    second: Indoor details - whole objects_285
+  - first:
+      213: 2753031148487918641
+    second: Indoor details - whole objects_286
+  - first:
+      213: -4566766212912751824
+    second: Indoor details - whole objects_287
+  - first:
+      213: -5881617827415156263
+    second: Indoor details - whole objects_288
+  - first:
+      213: -280135489785638159
+    second: Indoor details - whole objects_289
+  - first:
+      213: 7539661961899890173
+    second: Indoor details - whole objects_290
+  - first:
+      213: 4606149919782017533
+    second: Indoor details - whole objects_291
+  - first:
+      213: 2696245922209994636
+    second: Indoor details - whole objects_292
+  - first:
+      213: 7617803807364803728
+    second: Indoor details - whole objects_293
+  - first:
+      213: 3260490383111962511
+    second: Indoor details - whole objects_294
+  - first:
+      213: 8448864831304973546
+    second: Indoor details - whole objects_295
+  - first:
+      213: 1311212022537391939
+    second: Indoor details - whole objects_296
+  - first:
+      213: -3500736222602985991
+    second: Indoor details - whole objects_297
+  - first:
+      213: -867025966653391178
+    second: Indoor details - whole objects_298
+  - first:
+      213: -8512386508212616519
+    second: Indoor details - whole objects_299
+  - first:
+      213: -5848200331563507661
+    second: Indoor details - whole objects_300
+  - first:
+      213: 5291614169773732818
+    second: Indoor details - whole objects_301
+  - first:
+      213: 2505783662163813155
+    second: Indoor details - whole objects_302
+  - first:
+      213: -839724443842681368
+    second: Indoor details - whole objects_303
+  - first:
+      213: -2199378403662764703
+    second: Indoor details - whole objects_304
+  - first:
+      213: -2702302385526112087
+    second: Indoor details - whole objects_305
+  - first:
+      213: -7388695520639929756
+    second: Indoor details - whole objects_306
+  - first:
+      213: 5373129862692327877
+    second: Indoor details - whole objects_307
+  - first:
+      213: 8522712838329226730
+    second: Indoor details - whole objects_308
+  - first:
+      213: -8950445932494259598
+    second: Indoor details - whole objects_309
+  - first:
+      213: 4380779623589045933
+    second: Indoor details - whole objects_310
+  - first:
+      213: -2908003487647876015
+    second: Indoor details - whole objects_311
+  - first:
+      213: -6353573837451728555
+    second: Indoor details - whole objects_312
+  - first:
+      213: -6677896685107624544
+    second: Indoor details - whole objects_313
+  - first:
+      213: 7864923745718574453
+    second: Indoor details - whole objects_314
+  - first:
+      213: 1841467006040994039
+    second: Indoor details - whole objects_315
+  - first:
+      213: -7180092077328372086
+    second: Indoor details - whole objects_316
+  - first:
+      213: 8988292823013139211
+    second: Indoor details - whole objects_317
+  - first:
+      213: -4975178563959115751
+    second: Indoor details - whole objects_318
+  - first:
+      213: 2244179294176712434
+    second: Indoor details - whole objects_319
+  - first:
+      213: -3572552376985260858
+    second: Indoor details - whole objects_320
+  - first:
+      213: 4816902136398177710
+    second: Indoor details - whole objects_321
+  - first:
+      213: -5306737047605746517
+    second: Indoor details - whole objects_322
+  - first:
+      213: 4821742150945941125
+    second: Indoor details - whole objects_323
+  - first:
+      213: 3573351563729436556
+    second: Indoor details - whole objects_324
+  - first:
+      213: -7080815099924856673
+    second: Indoor details - whole objects_325
+  - first:
+      213: -1911155527576576215
+    second: Indoor details - whole objects_326
+  - first:
+      213: -3669968881667148053
+    second: Indoor details - whole objects_327
+  - first:
+      213: -3296703062417624671
+    second: Indoor details - whole objects_328
+  - first:
+      213: -4599729931681505635
+    second: Indoor details - whole objects_329
+  - first:
+      213: 5383462571664447457
+    second: Indoor details - whole objects_330
+  - first:
+      213: -1914841845630635973
+    second: Indoor details - whole objects_331
+  - first:
+      213: -8114717512214070954
+    second: Indoor details - whole objects_332
+  - first:
+      213: 3719281975852700801
+    second: Indoor details - whole objects_333
+  - first:
+      213: 7102370365493165240
+    second: Indoor details - whole objects_334
+  - first:
+      213: -3478141424065472457
+    second: Indoor details - whole objects_335
+  - first:
+      213: -564389769049157581
+    second: Indoor details - whole objects_336
+  - first:
+      213: 3580401678688370381
+    second: Indoor details - whole objects_337
+  - first:
+      213: 7372080704446249744
+    second: Indoor details - whole objects_338
+  - first:
+      213: 8872506607689520885
+    second: Indoor details - whole objects_339
+  - first:
+      213: -325547731213589276
+    second: Indoor details - whole objects_340
+  - first:
+      213: 3548408971416283769
+    second: Indoor details - whole objects_341
+  - first:
+      213: -4917671705110167660
+    second: Indoor details - whole objects_342
+  - first:
+      213: 5121454001590718785
+    second: Indoor details - whole objects_343
+  - first:
+      213: 8435661213267131253
+    second: Indoor details - whole objects_344
+  - first:
+      213: 276379770995759911
+    second: Indoor details - whole objects_345
+  - first:
+      213: -7881566957808112541
+    second: Indoor details - whole objects_346
+  - first:
+      213: -500038315340384814
+    second: Indoor details - whole objects_347
+  - first:
+      213: 8330731422835431581
+    second: Indoor details - whole objects_348
+  - first:
+      213: -7145610031470911751
+    second: Indoor details - whole objects_349
+  - first:
+      213: -4426821904992901720
+    second: Indoor details - whole objects_350
+  - first:
+      213: 5828165735980258811
+    second: Indoor details - whole objects_351
+  - first:
+      213: -233632996388069718
+    second: Indoor details - whole objects_352
+  - first:
+      213: -5235291574659175895
+    second: Indoor details - whole objects_353
+  - first:
+      213: 59595919515761713
+    second: Indoor details - whole objects_354
+  - first:
+      213: 7155191405945414601
+    second: Indoor details - whole objects_355
+  - first:
+      213: -5682754618374113416
+    second: Indoor details - whole objects_356
+  - first:
+      213: -3511568153401922425
+    second: Indoor details - whole objects_357
+  - first:
+      213: 605857798074355561
+    second: Indoor details - whole objects_358
+  - first:
+      213: 9112865525970794888
+    second: Indoor details - whole objects_359
+  - first:
+      213: 5867035546272368017
+    second: Indoor details - whole objects_360
+  - first:
+      213: -5306087944459596175
+    second: Indoor details - whole objects_361
+  - first:
+      213: -6994884276699220390
+    second: Indoor details - whole objects_362
+  - first:
+      213: -3026258772707188199
+    second: Indoor details - whole objects_363
+  - first:
+      213: 2134924290419395755
+    second: Indoor details - whole objects_364
+  - first:
+      213: -1886133754480946965
+    second: Indoor details - whole objects_365
+  - first:
+      213: -542982401398022690
+    second: Indoor details - whole objects_366
+  - first:
+      213: -4446954833420076234
+    second: Indoor details - whole objects_367
+  - first:
+      213: -4844896144961115634
+    second: Indoor details - whole objects_368
+  - first:
+      213: -5978133618338749404
+    second: Indoor details - whole objects_369
+  - first:
+      213: 2997564774568895939
+    second: Indoor details - whole objects_370
+  - first:
+      213: 3986613917894969314
+    second: Indoor details - whole objects_371
+  - first:
+      213: -7160623603111892550
+    second: Indoor details - whole objects_372
+  - first:
+      213: 1950888098274929178
+    second: Indoor details - whole objects_373
+  - first:
+      213: -4742831235985283033
+    second: Indoor details - whole objects_374
+  - first:
+      213: -7089110120726598354
+    second: Indoor details - whole objects_375
+  - first:
+      213: -7665677571748406480
+    second: Indoor details - whole objects_376
+  - first:
+      213: -4398459769863281259
+    second: Indoor details - whole objects_377
+  - first:
+      213: -5895926843552219497
+    second: Indoor details - whole objects_378
+  - first:
+      213: -754747677329106191
+    second: Indoor details - whole objects_379
+  - first:
+      213: 4021873507933078417
+    second: Indoor details - whole objects_380
+  - first:
+      213: -3592269855320844385
+    second: Indoor details - whole objects_381
+  - first:
+      213: -87818480580174738
+    second: Indoor details - whole objects_382
+  - first:
+      213: 2485048021059989951
+    second: Indoor details - whole objects_383
+  - first:
+      213: 6503666489098911659
+    second: Indoor details - whole objects_384
+  - first:
+      213: 3490519359410011249
+    second: Indoor details - whole objects_385
+  - first:
+      213: 6196649558148282928
+    second: Indoor details - whole objects_386
+  - first:
+      213: 5523444657298625317
+    second: Indoor details - whole objects_387
+  - first:
+      213: 4355126797251771757
+    second: Indoor details - whole objects_388
+  - first:
+      213: -6560484970842144112
+    second: Indoor details - whole objects_389
+  - first:
+      213: -5741918264215510083
+    second: Indoor details - whole objects_390
+  - first:
+      213: -3032673520499395607
+    second: Indoor details - whole objects_391
+  - first:
+      213: -7704420917555970913
+    second: Indoor details - whole objects_392
+  - first:
+      213: 2895607822224295259
+    second: Indoor details - whole objects_393
+  - first:
+      213: 6395177481319186874
+    second: Indoor details - whole objects_394
+  - first:
+      213: 8916870796846053959
+    second: Indoor details - whole objects_395
+  - first:
+      213: 2143940111925372149
+    second: Indoor details - whole objects_396
+  - first:
+      213: 7125642027097052318
+    second: Indoor details - whole objects_397
+  - first:
+      213: 2644818896205875302
+    second: Indoor details - whole objects_398
+  - first:
+      213: -8839514078989261796
+    second: Indoor details - whole objects_399
+  - first:
+      213: 2240965312415476084
+    second: Indoor details - whole objects_400
+  - first:
+      213: -7844696378539741255
+    second: Indoor details - whole objects_401
+  - first:
+      213: -168426333585775670
+    second: Indoor details - whole objects_402
+  - first:
+      213: -6442078980412765803
+    second: Indoor details - whole objects_403
+  - first:
+      213: 7921387332546949950
+    second: Indoor details - whole objects_404
+  - first:
+      213: 4033330069979332063
+    second: Indoor details - whole objects_405
+  - first:
+      213: 2898612958904421642
+    second: Indoor details - whole objects_406
+  - first:
+      213: -5011462784697416717
+    second: Indoor details - whole objects_407
+  - first:
+      213: 8291161470600641324
+    second: Indoor details - whole objects_408
+  - first:
+      213: -2790021979411272406
+    second: Indoor details - whole objects_409
+  - first:
+      213: 2934387089517809674
+    second: Indoor details - whole objects_410
+  - first:
+      213: 1368781713646056374
+    second: Indoor details - whole objects_411
+  - first:
+      213: 2252054678535332814
+    second: Indoor details - whole objects_412
+  - first:
+      213: 5524507435227694534
+    second: Indoor details - whole objects_413
+  - first:
+      213: -8489483688929289777
+    second: Indoor details - whole objects_414
+  - first:
+      213: 4687439099718057889
+    second: Indoor details - whole objects_415
+  - first:
+      213: 4463404086196453769
+    second: Indoor details - whole objects_416
+  - first:
+      213: 4179098218683015478
+    second: Indoor details - whole objects_417
+  - first:
+      213: -592823576497961971
+    second: Indoor details - whole objects_418
+  - first:
+      213: -8889229999216365679
+    second: Indoor details - whole objects_419
+  - first:
+      213: 8914448985803508340
+    second: Indoor details - whole objects_420
+  - first:
+      213: 5807037205055743371
+    second: Indoor details - whole objects_421
+  - first:
+      213: 3937558044440129979
+    second: Indoor details - whole objects_422
+  - first:
+      213: -829031346435906691
+    second: Indoor details - whole objects_423
+  - first:
+      213: -754045951007488911
+    second: Indoor details - whole objects_424
+  - first:
+      213: -1481383188503593445
+    second: Indoor details - whole objects_425
+  - first:
+      213: -7537290919462162926
+    second: Indoor details - whole objects_426
+  - first:
+      213: 8936972325851329640
+    second: Indoor details - whole objects_427
+  - first:
+      213: 7081265962292132403
+    second: Indoor details - whole objects_428
+  - first:
+      213: -6477205499548953716
+    second: Indoor details - whole objects_429
+  - first:
+      213: 3403019975296833593
+    second: Indoor details - whole objects_430
+  - first:
+      213: -7895531632115042170
+    second: Indoor details - whole objects_431
+  - first:
+      213: -1462685613161826845
+    second: Indoor details - whole objects_432
+  - first:
+      213: 2013424053859325835
+    second: Indoor details - whole objects_433
+  - first:
+      213: -7453382602836374659
+    second: Indoor details - whole objects_434
+  - first:
+      213: 7383821289477336030
+    second: Indoor details - whole objects_435
+  - first:
+      213: 2269700985820691074
+    second: Indoor details - whole objects_436
+  - first:
+      213: -2875099596573171487
+    second: Indoor details - whole objects_437
+  - first:
+      213: 7112352844249917491
+    second: Indoor details - whole objects_438
+  - first:
+      213: 2265974046008557191
+    second: Indoor details - whole objects_439
+  - first:
+      213: -2596017499546344407
+    second: Indoor details - whole objects_440
+  - first:
+      213: -5968907933691419961
+    second: Indoor details - whole objects_441
+  - first:
+      213: 8131878478509914870
+    second: Indoor details - whole objects_442
+  - first:
+      213: 4195527799850773759
+    second: Indoor details - whole objects_443
+  - first:
+      213: 16247378270512293
+    second: Indoor details - whole objects_444
+  - first:
+      213: -1133769715059215926
+    second: Indoor details - whole objects_445
+  - first:
+      213: 6995321209421526551
+    second: Indoor details - whole objects_446
+  - first:
+      213: 1983314065510195174
+    second: Indoor details - whole objects_447
+  - first:
+      213: 3571233304971828827
+    second: Indoor details - whole objects_448
+  - first:
+      213: 1140649465060544031
+    second: Indoor details - whole objects_449
+  - first:
+      213: -1400931024359071667
+    second: Indoor details - whole objects_450
+  - first:
+      213: -4769133826423232752
+    second: Indoor details - whole objects_451
+  - first:
+      213: 8717650779957468729
+    second: Indoor details - whole objects_452
+  - first:
+      213: -4219571363207901782
+    second: Indoor details - whole objects_453
+  - first:
+      213: -6323904070054968467
+    second: Indoor details - whole objects_454
+  - first:
+      213: -5725390054564116479
+    second: Indoor details - whole objects_455
+  - first:
+      213: -1328734901773050450
+    second: Indoor details - whole objects_456
+  - first:
+      213: -270241635938523641
+    second: Indoor details - whole objects_457
+  - first:
+      213: -667799928223825164
+    second: Indoor details - whole objects_458
+  - first:
+      213: 4704005287376511429
+    second: Indoor details - whole objects_459
+  - first:
+      213: 5565343522418424606
+    second: Indoor details - whole objects_460
+  - first:
+      213: -8100036454352071609
+    second: Indoor details - whole objects_461
+  - first:
+      213: -1478833023445270240
+    second: Indoor details - whole objects_462
+  - first:
+      213: -4978760342878732840
+    second: Indoor details - whole objects_463
+  - first:
+      213: 6194472384869741950
+    second: Indoor details - whole objects_464
+  - first:
+      213: -3291063892525237843
+    second: Indoor details - whole objects_465
+  - first:
+      213: -1187667158996184791
+    second: Indoor details - whole objects_466
+  - first:
+      213: -700239788666470723
+    second: Indoor details - whole objects_467
+  - first:
+      213: 722795853186540215
+    second: Indoor details - whole objects_468
+  - first:
+      213: -3576814194037095808
+    second: Indoor details - whole objects_469
+  - first:
+      213: 900093835606850809
+    second: Indoor details - whole objects_470
+  - first:
+      213: -729914640442409688
+    second: Indoor details - whole objects_471
+  - first:
+      213: 1646423960709641319
+    second: Indoor details - whole objects_472
+  - first:
+      213: 4351985170178585145
+    second: Indoor details - whole objects_473
+  - first:
+      213: 7927505681294952926
+    second: Indoor details - whole objects_474
+  - first:
+      213: -7503447271064140111
+    second: Indoor details - whole objects_475
+  - first:
+      213: -2388398165839047988
+    second: Indoor details - whole objects_476
+  - first:
+      213: 4917078350350298037
+    second: Indoor details - whole objects_477
+  - first:
+      213: 4040442910324666511
+    second: Indoor details - whole objects_478
+  - first:
+      213: -314117830529170266
+    second: Indoor details - whole objects_479
+  - first:
+      213: 7820508940255026970
+    second: Indoor details - whole objects_480
+  - first:
+      213: 740157688275715585
+    second: Indoor details - whole objects_481
+  - first:
+      213: -3442297269870331921
+    second: Indoor details - whole objects_482
+  - first:
+      213: -1598744849432634436
+    second: Indoor details - whole objects_483
+  - first:
+      213: -2399586606590176445
+    second: Indoor details - whole objects_484
+  - first:
+      213: -8260583180577561825
+    second: Indoor details - whole objects_485
+  - first:
+      213: -5972480588723992130
+    second: Indoor details - whole objects_486
+  - first:
+      213: 1208839727827692448
+    second: Indoor details - whole objects_487
+  - first:
+      213: 4600215955774324976
+    second: Indoor details - whole objects_488
+  - first:
+      213: 1480167965789195810
+    second: Indoor details - whole objects_489
+  - first:
+      213: 8155243370316456784
+    second: Indoor details - whole objects_490
+  - first:
+      213: 7683484833665803733
+    second: Indoor details - whole objects_491
+  - first:
+      213: -6232102796472671573
+    second: Indoor details - whole objects_492
+  - first:
+      213: -1736559145042015348
+    second: Indoor details - whole objects_493
+  - first:
+      213: 4165592636895481500
+    second: Indoor details - whole objects_494
+  - first:
+      213: -2620126069235625728
+    second: Indoor details - whole objects_495
+  - first:
+      213: -7973849603823463367
+    second: Indoor details - whole objects_496
+  - first:
+      213: -3193167811812985669
+    second: Indoor details - whole objects_497
+  - first:
+      213: -5608381220407919543
+    second: Indoor details - whole objects_498
+  - first:
+      213: 5621926980808885925
+    second: Indoor details - whole objects_499
+  - first:
+      213: 641029353936595396
+    second: Indoor details - whole objects_500
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Indoor details - whole objects_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf85355b6fba9020800000000000000
+      internalID: 2349400623339114434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indoor details - whole objects_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 672
+        width: 32
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3f8023b8be371a0800000000000000
+      internalID: -6812842828208999442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

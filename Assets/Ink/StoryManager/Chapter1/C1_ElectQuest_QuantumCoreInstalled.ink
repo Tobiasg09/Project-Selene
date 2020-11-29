@@ -1,0 +1,3 @@
+ME: All right, let's see if I can get this to work.
+ME: The quantum core goes here. Rebooting the system...
+ME: Think that should do the trick!

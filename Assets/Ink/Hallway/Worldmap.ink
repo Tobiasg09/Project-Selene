@@ -1,0 +1,1 @@
+ME: Hmm, this map is made before the Flood - New Zealand is still here.

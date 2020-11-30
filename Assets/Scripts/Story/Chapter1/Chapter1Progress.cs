@@ -151,6 +151,7 @@ public class Chapter1Progress : MonoBehaviour
         StartCoroutine(FadeTextInAndOut(chapterText));
         StartCoroutine(FadeTextInAndOut(chapterQuoteText));
         GameObject.Find("Player").GetComponent<PlayerMovement>().ToggleCanMove(false);
+        GameObject.Find("Player").GetComponent<PlayerAction>().ToggleCanInteract(false);
     }
 
 
@@ -288,6 +289,7 @@ public class Chapter1Progress : MonoBehaviour
 
         if (finishedTalkingToFriends) {
             GameObject.Find("Player").GetComponent<PlayerMovement>().ToggleCanMove(true);
+            GameObject.Find("Player").GetComponent<PlayerAction>().ToggleCanInteract(true);
         }
         finishedTalkingToFriends = true;
     }
@@ -296,6 +298,7 @@ public class Chapter1Progress : MonoBehaviour
     public void EndDialogExitRoom1() {
         if (finishedTalkingToFriends) {
             GameObject.Find("Player").GetComponent<PlayerMovement>().ToggleCanMove(true);
+            GameObject.Find("Player").GetComponent<PlayerAction>().ToggleCanInteract(true);
         }
         finishedTalkingToFriends = true;
         ToggleAllBarPeople(false);
@@ -337,6 +340,7 @@ public class Chapter1Progress : MonoBehaviour
         GameObject.Find("Utils").GetComponent<Utilities>().FadeOutFadeIn(0.01f,20,5,0.5f);
         Invoke("EndBarIntro",0.5f);
         GameObject.Find("Player").GetComponent<PlayerMovement>().ToggleCanMove(true,0.5f);
+        GameObject.Find("Player").GetComponent<PlayerAction>().ToggleCanInteract(true,0.5f);
     }
 
     public void EndBarIntro() {
@@ -371,6 +375,7 @@ public class Chapter1Progress : MonoBehaviour
     public void EndDialogEnterChem() {
         GameObject.Find("Utils").GetComponent<Utilities>().FadeOutFadeIn(0.01f,20,10,1);
         GameObject.Find("Player").GetComponent<PlayerMovement>().ToggleCanMove(true);
+        GameObject.Find("Player").GetComponent<PlayerAction>().ToggleCanInteract(true);
         Destroy(C1_NitroQuest_ChemistBlockingEntrance, 1.0f);
         Invoke("EnteredChemLab1",1.0f);
     }
@@ -578,10 +583,12 @@ public class Chapter1Progress : MonoBehaviour
 
     public void StartDialog() {
         GameObject.Find("Player").GetComponent<PlayerMovement>().ToggleCanMove(false);
+        GameObject.Find("Player").GetComponent<PlayerAction>().ToggleCanInteract(false);
     }
 
     public void EndDialog() {
         GameObject.Find("Player").GetComponent<PlayerMovement>().ToggleCanMove(true);
+        GameObject.Find("Player").GetComponent<PlayerAction>().ToggleCanInteract(true);
     }
 
 

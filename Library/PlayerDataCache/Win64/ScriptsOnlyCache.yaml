@@ -1,7 +1,6 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp-Editor-firstpass.dll:
-    - Ink.UnityIntegration.DefaultAssetEditor
     - Ink.UnityIntegration.InkLibrary
     - Ink.UnityIntegration.InkPlayerWindow
     - Ink.UnityIntegration.InkSettings
@@ -69,6 +68,7 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridBrush
+    - UnityEditor.Tilemaps.GridBrushEditor
     - UnityEditor.Tilemaps.GridPaintPaletteClipboard
     - UnityEditor.Tilemaps.GridPaintPaletteWindow
     - UnityEditor.Tilemaps.GridPaintingState
@@ -1135,7 +1135,7 @@ ScriptsOnlyBuild:
     className: MarkerTrack
   - hash:
       serializedVersion: 2
-      Hash: d4459047632588a58b8f8792c1d0b01a
+      Hash: a2cc27079e6ab8a84da986ed90a82516
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: PlayerAction

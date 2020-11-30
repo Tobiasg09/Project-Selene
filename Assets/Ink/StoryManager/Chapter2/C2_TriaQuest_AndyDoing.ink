@@ -8,7 +8,7 @@ ANDY: If you've talked to them, come find me here again and we'll get this to Pr
     ->Divert1
     
     +[Where's Charlotte?] ME: Where can I find Charlotte?
-        ANDY: She usually hangs around the little library in the Lobby.
+        ANDY: She usually hangs around the little library in the lobby.
         ->Divert1
     
     +[Where's Kwame?] ME: Where can I find Kwame?

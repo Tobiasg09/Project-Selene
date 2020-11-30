@@ -39,8 +39,8 @@ VAR notVictim3 = ""
 ME: What is it that you wanted to tell me?
 CHARLOTTE: I just can't live with this lie anymore.. 
 ME: What do you mean?
-CHARLOTTE: {victimName} is innocent.
+CHARLOTTE: {victimName} was innocent.
 ME: Impossible. How would you know?
 CHARLOTTE: Because... 
-CHARLOTTE: I know {victimGender} is innocent because I took the quantum core, not {victimName}. 
+CHARLOTTE: I know {victimGender} was innocent because I took the quantum core, not {victimName}. 
 ME: WHAT?!

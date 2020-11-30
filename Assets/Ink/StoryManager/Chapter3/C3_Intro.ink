@@ -130,7 +130,7 @@ PRISHA: ... or not evacuate to make sure it is finished in a timely manner. What
     
     * [Not evacuate] ME: What's the point of me risking my neck while robbing a high-tech State base if the transmitter is not ready when I return?
         ME: I don't think we should evacuate. Everyone should work on building the transmitter.
-        PRISHA: I see everyone nodding. Then it is decided, we will not evacuate and focus all our efforts on building this transmittor.
+        PRISHA: I see everyone nodding. Then it is decided, we will not evacuate and focus all our efforts on building this transmitter.
         ~hasEvacuated = false
         
 -

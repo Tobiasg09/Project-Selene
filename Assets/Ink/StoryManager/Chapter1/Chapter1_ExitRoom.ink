@@ -7,7 +7,7 @@ CHARLOTTE: Who do you think is going to win?
     ME: There always is.
     -> Divert1
 
-* [Isn't it obvious?] ME: Well, it'll probably be the same result as the last 5 elections. No reason to wake up so early for.
+* [Isn't it obvious?] ME: Well, it'll probably be the same result as the last 6 elections. No reason to wake up so early for.
     ANDY: Well, it has become sort of a tradition to wake up I guess.
     -> Divert1
 

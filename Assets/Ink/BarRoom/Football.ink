@@ -1,0 +1,2 @@
+ME: This is a sport they used to play on Earth. I think this is a replay of the 2022 world cup final. 
+ME: Apparently, that was the best game ever played. A small European country won the cup by a landslide.

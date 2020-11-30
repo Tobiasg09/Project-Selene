@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Based on http://gamedesigntheory.blogspot.com/2010/09/controlling-aspect-ratio-in-unity.html
+
 public class CameraAspectRatio : MonoBehaviour
 {
     // Use this for initialization

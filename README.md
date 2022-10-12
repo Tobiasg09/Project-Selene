@@ -1,6 +1,6 @@
 # Project-Selene
 
-This game was made for the [GitHub Game Off 2020](https://itch.io/jam/game-off-2020), where we had one month to develop a videogame from scratch that fits a specific theme. The theme for this year was 'Moonshot'. 
+This game was made for the [GitHub Game Off 2020](https://itch.io/jam/game-off-2020), where we had one month to develop a videogame from scratch that fits a specific theme. The theme for this year was 'Moonshot'. The game can be played [here](https://astrosaurus.itch.io/project-selene).
 
 
 # Description of our submission
